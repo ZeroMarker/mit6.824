@@ -1,0 +1,2 @@
+- Parallelism
+- Fault Tolerance
